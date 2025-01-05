@@ -1,0 +1,17 @@
+a .aa{
+    height: 220px;
+    width: 150px;
+    /* object-fit: cover; */
+    /* border: 5px solid red; ถ้าคุณต้องการกรอบสีแดง */
+}
+.ingredient {
+
+}
+
+.cardsave h1 p {
+    padding: 5px 0px;
+    /* background-color: aqua; */
+    max-height: 29px;
+    width: 512px;
+    overflow: hidden;
+}
