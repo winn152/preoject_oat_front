@@ -7,7 +7,7 @@ import { MdEmail } from "react-icons/md";
 import { useRef, useState } from "react";
 import Axios from "axios";
 import { baseUrl } from "../../../baseUrl";
-import { FaLock,FaEye, FaEyeSlash } from "react-icons/fa"; // Import eye icons
+import { FaLock } from "react-icons/fa"; // Import eye icons
 
 const LoginForm = () => {
   const userID = sessionStorage.getItem("userId");

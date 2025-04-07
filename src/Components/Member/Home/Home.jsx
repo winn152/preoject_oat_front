@@ -126,6 +126,8 @@ function Home() {
     }
   }, [checkReload, navigate, sumUp, userID]);
 
+
+
   useEffect(() => {
     setShowPost([]);
     postData.map((item, index) => {
